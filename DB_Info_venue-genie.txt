@@ -1,0 +1,3 @@
+DB-Url=jdbc:mysql://localhost:3306/venue_genie
+UserName=root
+Password=root
